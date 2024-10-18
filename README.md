@@ -1,0 +1,1 @@
+A Kotlin-based Android project that demonstrates how to interact with the Rick and Morty API using Jetpack Compose, Ktor for network requests, Hilt for dependency injection, and the MVVM (Model-View-ViewModel) architecture pattern.
